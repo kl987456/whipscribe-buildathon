@@ -38,7 +38,7 @@ deployment.
 - Phone: +91 7411771293
 - LinkedIn: https://linkedin.com/in/kamalakar-reddy-gorantla-6a309929
 - GitHub: https://github.com/kl987456
-- Portfolio: https://kamalreddygorantla.online
+- Portfolio: https://www.kamalreddygorantla.online
 
 ## Track record
 
