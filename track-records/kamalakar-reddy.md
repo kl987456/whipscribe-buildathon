@@ -36,13 +36,13 @@ deployment.
 
 - Email: gorantlakamalakarreddharhi@gmail.com
 - Phone: +91 7411771293
-- LinkedIn: https://linkedin.com/in/kamalakar-reddy-gorantla-6a309929
+- LinkedIn: https://www.linkedin.com/in/kamalakar-reddy-gorantla-6a3099290
 - GitHub: https://github.com/kl987456
 - Portfolio: https://www.kamalreddygorantla.online
 
 ## Track record
 
-- **LinkedIn:** https://linkedin.com/in/kamalakar-reddy-gorantla-6a309929
+- **LinkedIn:** https://www.linkedin.com/in/kamalakar-reddy-gorantla-6a3099290
 - **Shipped apps:** Workforce AI is live at https://workforce-ai-final.vercel.app/; no App Store or Play Store app is claimed in my resume.
 - **Hackathon wins:** IBM ICE Day — 1st Prize, GenAI + Cybersecurity. The resume does not include a public event link.
 - **Team lead:** Not claimed in my resume.
